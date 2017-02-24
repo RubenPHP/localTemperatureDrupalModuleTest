@@ -1,3 +1,1 @@
 # localTemperatureDrupalModuleTest
-# localTemperatureDrupalModuleTest
-# localTemperatureDrupalModuleTest
