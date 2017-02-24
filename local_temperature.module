@@ -1,0 +1,12 @@
+<?php
+
+function local_temperature_theme($existing, $type, $theme, $path) {
+    return array(
+        'local_temperature' => array(
+            'variables' => array(
+                'icon' => null,
+                'current_temperature' => null,
+            ),
+        ),
+    );
+}
